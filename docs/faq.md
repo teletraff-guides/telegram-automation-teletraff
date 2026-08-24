@@ -9,4 +9,4 @@
 **Можно ли выключить сценарий?**  
 Да, отдельно от его конфигурации.
 
-Остальные вопросы — в [общем FAQ](https://telegain-guides.github.io/faq/) и [полном руководстве](https://telegain-guides.github.io/modules/automation/).
+Остальные вопросы — в [общем FAQ](https://teletraff-guides.github.io/faq/) и [полном руководстве](https://teletraff-guides.github.io/modules/automation/).

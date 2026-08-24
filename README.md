@@ -1,8 +1,8 @@
-# Автоматизация задач в TeleGain
+# Автоматизация задач в TeleTraff
 
 Автоматизация сохраняет сценарий запуска и повторяет его по расписанию или условию, а вы наблюдаете за журналом вместо ручного старта каждый раз.
 
-**[Полное руководство →](https://telegain-guides.github.io/modules/automation/)**  ·  **[Официальная страница модуля →](https://telegain.net/ru/modules/automation)**
+**[Полное руководство →](https://teletraff-guides.github.io/modules/automation/)**  ·  **[Официальная страница модуля →](https://teletraff.com/ru/modules/automation)**
 
 ---
 
@@ -41,17 +41,17 @@
 
 ## Связанные модули
 
-- [Статистика](https://github.com/telegain-guides/telegain-statistics)
-- [Прогрев аккаунтов](https://github.com/telegain-guides/telegram-account-warmup-telegain)
+- [Статистика](https://github.com/teletraff-guides/teletraff-statistics)
+- [Прогрев аккаунтов](https://github.com/teletraff-guides/telegram-account-warmup-teletraff)
 
 ## Документация
 
-- [Полное руководство по модулю](https://telegain-guides.github.io/modules/automation/)
-- [Каталог всех модулей](https://telegain-guides.github.io/modules/)
-- [Диагностика запусков](https://telegain-guides.github.io/troubleshooting/)
-- [Ответственное использование](https://telegain-guides.github.io/responsible-use/)
+- [Полное руководство по модулю](https://teletraff-guides.github.io/modules/automation/)
+- [Каталог всех модулей](https://teletraff-guides.github.io/modules/)
+- [Диагностика запусков](https://teletraff-guides.github.io/troubleshooting/)
+- [Ответственное использование](https://teletraff-guides.github.io/responsible-use/)
 
 ---
 
-TeleGain — независимый сервис. Он не принадлежит Telegram, не аффилирован с Telegram FZ-LLC
+TeleTraff (ТелеТрафф) — независимый сервис. Он не принадлежит Telegram, не аффилирован с Telegram FZ-LLC
 и не является официальным продуктом мессенджера. Telegram — товарный знак своего правообладателя.
